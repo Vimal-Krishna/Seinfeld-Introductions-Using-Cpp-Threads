@@ -9,6 +9,7 @@ Here is the scene:
 https://www.youtube.com/watch?v=UMSW_v0apQY&t=60s
 
 And the code's output:
+```
 Jerry -> Hi Marla
 Marla -> Jerry
 Jerry -> George, Marla
@@ -21,3 +22,4 @@ George -> Stacy
 Stacy -> George
 Jerry -> George
 George -> Jerry Marla Stacy
+```
