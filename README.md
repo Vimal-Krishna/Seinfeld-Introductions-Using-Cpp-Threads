@@ -8,6 +8,8 @@ Here is the scene:
 
 https://www.youtube.com/watch?v=UMSW_v0apQY&t=60s
 
+https://holyclip.net/clip/bkmmJFmS?end=4.9
+
 And the code's output:
 ```
 Jerry -> Hi Marla
